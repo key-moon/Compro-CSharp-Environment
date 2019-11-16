@@ -260,13 +260,5 @@ paket-files/
 __pycache__/
 *.pyc
 
-/ac-predictor/Web.config
-/ac-predictor/Properties/PublishProfiles
-/ac-predictor/Content/bootstrap*
-/ac-predictor/Scripts/bootstrap*
-/ac-predictor/Scripts/jquery*
-/ac-predictor/Scripts/**/popper*
-/ac-predictor/Scripts/modernizr*
-/ac-predictor/Scripts/README.md
-/ac-predictor/Scripts/index.d.ts
-/X/Secret.cs
+Cases/
+Secret.cs
